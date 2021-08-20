@@ -2,8 +2,8 @@
 
 Learner
 
-[![Linkedin Badge](https://img.shields.io/badge/-Diego%20Fernandes-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nicolasguadagno/)](https://www.linkedin.com/in/nicolasguadagno/) 
-[![Gmail Badge](https://img.shields.io/badge/-diego.schell.f@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nicolasguadagno@gmail.com)](mailto:nicolasguadagno@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Nicolas%20Guadagno-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nicolasguadagno/)](https://www.linkedin.com/in/nicolasguadagno/) 
+[![Gmail Badge](https://img.shields.io/badge/-nicolasguadagno@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nicolasguadagno@gmail.com)](mailto:nicolasguadagno@gmail.com)
 
 Hi, my name is Nicolas, I'm 18 years old, I live in Rio de Janeiro and I've been involved with the world of programming since I was 12 years old.
 
