@@ -11,7 +11,7 @@ My first contact with programming was through game servers like Minecraft, SA:MP
 
 At 16, I started studying web and mobile development, using nodeJS on the back-end and React / Native on the front-end. To learn more, I attended Rocketseat's Gostock 8 bootcamp, where I had an amazing insight.
 
-##"For particulars, as every one knows, make for virture and happiness; generalities are intellectually necessary evils."
+"For particulars, as every one knows, make for virture and happiness; generalities are intellectually necessary evils."
 
 <!--
 **nclsgg/nclsgg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
