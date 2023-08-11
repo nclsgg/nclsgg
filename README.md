@@ -1,6 +1,6 @@
 ## Olá, Eu sou o Nicolas Guadagno 👋
 
-- 🌱 Desenvolvedor Full-Stack com foco em Front-End
+- 🌱 Desenvolvedor Full-Stack
 - ⚡ Sempre buscando por conhecimento
 
 <div>
